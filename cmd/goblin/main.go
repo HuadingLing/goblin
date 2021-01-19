@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"flag"
-	"github.com/ReconfigureIO/goblin"
+	"goblin"
 	"go/ast"
 	"go/parser"
 	"go/token"
